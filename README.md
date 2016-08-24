@@ -1,24 +1,16 @@
-# README
+# Mixpanel Alerts
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Mixpanel is a basic Rails 5 application that lets you create alerts based on thresholds in your data.
 
-Things you may want to cover:
+Eventually, this application will let you create an alert based on...
 
-* Ruby version
+* Event volume
 
-* System dependencies
+* Conversion rate
 
-* Configuration
+* % change in an event
 
-* Database creation
+...and deliver an email message to your inbox to notify you of the change.
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+** This application is in no way endorsed by Mixpanel, Inc. **
