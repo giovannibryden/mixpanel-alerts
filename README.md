@@ -13,4 +13,4 @@ Eventually, this application will let you create an alert based on...
 ...and deliver an email message to your inbox to notify you of the change.
 
 
-** This application is in no way endorsed by Mixpanel, Inc. **
+**This application is in no way endorsed by Mixpanel, Inc.**
