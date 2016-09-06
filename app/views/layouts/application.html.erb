@@ -8,8 +8,12 @@
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
+  <%= render 'layouts/header' %>
+
   <h1>Mixpanel Alerts</h1>
   <body>
     <%= yield %>
   </body>
+
+  <%= render 'layouts/footer' %>
 </html>
